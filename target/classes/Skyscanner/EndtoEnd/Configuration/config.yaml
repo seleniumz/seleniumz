@@ -1,0 +1,20 @@
+Broswer: chrome
+Driverspath : /Users/Develop/Desktop/Automaion/Drivers
+url: https://www.skyscanner.ca/
+objrepo: /Users/Develop/Desktop/Appium/Workspace/Appium_basic/EndtoEnd/src/test/java/Skyscanner/EndtoEnd/seleniumrepo/object.properties
+testdata:
+   march1: one
+   march 2: two
+   match3: three
+   march4:
+      just1: hello
+      just2 : racha
+      just3:
+         - 1
+         - 2
+         - 3
+         - 4
+         - 5
+         
+
+
